@@ -1,21 +1,14 @@
 <div align="center">
 
-```
- ███╗   ███╗██╗   ██╗██╗  ██╗███████╗███████╗██╗  ██╗
- ████╗ ████║██║   ██║██║ ██╔╝██╔════╝██╔════╝██║  ██║
- ██╔████╔██║██║   ██║█████╔╝ █████╗  ███████╗███████║
- ██║╚██╔╝██║██║   ██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
- ██║ ╚═╝ ██║╚██████╔╝██║  ██╗███████╗███████║██║  ██║
- ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
- ██╗  ██╗ █████╗ ██╗      █████╗  ██████╗  █████╗      
- ██║ ██╔╝██╔══██╗██║     ██╔══██╗██╔════╝ ██╔══██╗     
- █████╔╝ ███████║██║     ███████║██║  ███╗███████║     
- ██╔═██╗ ██╔══██║██║     ██╔══██║██║   ██║██╔══██║     
- ██║  ██╗██║  ██║███████╗██║  ██║╚██████╔╝██║  ██║     
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝     
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=45&lines=MUKESH+KALAGA" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+ssh+mukesh%40matrix;%3E+Initializing+full-stack+%2B+agentic+AI+systems...;%3E+Connection+established.+Welcome." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%24+ssh+mukesh%40matrix;%3E+Initializing+full-stack+%2B+agentic+AI+systems...;%3E+Connection+established.+Welcome." alt="Typing SVG" /></a>
+
+```diff
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
++ ┃  Full Stack & Gen AI / Agentic AI Developer  ┃  Kakinada, IN  ┃ +
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
+```
 
 </div>
 
@@ -32,7 +25,7 @@ mukesh@matrix:~$ cat /etc/identity.conf
 ║                                                                  ║
 ║   Name       : Mukesh Kalaga                                     ║
 ║   Role       : Full Stack & Gen AI / Agentic AI Developer        ║
-║   Location   : Hyderabad, India 🇮🇳                               ║
+║   Location   : Kakinada, India 🇮🇳                                ║
 ║   Motto      : "I don't just write code. I architect agents."    ║
 ║                                                                  ║
 ║   [ Full Stack ]  ×  [ Generative AI ]  ×  [ Agentic Systems ]  ║
@@ -132,14 +125,14 @@ mukesh@matrix
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MukeshKalaga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MukeshKalaga&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=mukeshkalaga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshkalaga&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600" width="48%">
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshKalaga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkalaga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" width="40%">
 
 </div>
 
@@ -187,9 +180,10 @@ mukesh@matrix
 ┌──────────────────────────────────────────────────────────────┐
 │                     ESTABLISH CONNECTION                      │
 │                                                              │
-│    📧  Email       →  [ kalagamukesh@gmail.com ]             │
+│    📧  Email       →  kalagamukesh@gmail.com                 │
 │    💼  LinkedIn    →  linkedin.com/in/mukesh-kalaga          │
-│    🐙  GitHub      →  github.com/MukeshKalaga               │
+│    🐙  GitHub      →  github.com/mukeshkalaga                │
+│    🌐  Portfolio   →  mukeshkalaga.github.io                 │
 │                                                              │
 │    ┌──────────────────────────────────────────────────┐      │
 │    │  > Connection Status: OPEN                       │      │
@@ -220,7 +214,7 @@ mukesh@matrix
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=MukeshKalaga&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=mukeshkalaga&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
