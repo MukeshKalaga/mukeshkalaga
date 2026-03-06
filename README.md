@@ -1,224 +1,60 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=45&lines=MUKESH+KALAGA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%3E_+mukesh%40kalaga" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%24+ssh+mukesh%40matrix;%3E+Initializing+full-stack+%2B+agentic+AI+systems...;%3E+Connection+established.+Welcome." alt="Typing SVG" /></a>
+**`full-stack dev × gen ai × agentic systems`**
 
-```diff
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
-+ ┃  Full Stack & Gen AI / Agentic AI Developer  ┃  Kakinada, IN  ┃ +
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
-```
-
-</div>
-
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
----
-
-## `> whoami`
-
-```bash
-mukesh@matrix:~$ cat /etc/identity.conf
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   Name       : Mukesh Kalaga                                     ║
-║   Role       : Full Stack & Gen AI / Agentic AI Developer        ║
-║   Location   : Kakinada, India 🇮🇳                                ║
-║   Motto      : "I don't just write code. I architect agents."    ║
-║                                                                  ║
-║   [ Full Stack ]  ×  [ Generative AI ]  ×  [ Agentic Systems ]  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> cat tech_stack.log`
-
-```js
-// ═══════════════════════════════════════════════════════
-//  SYSTEM MODULES LOADED
-// ═══════════════════════════════════════════════════════
-
-const MukeshKalaga = {
-  
-  languages:    ["JavaScript", "TypeScript", "Python", "SQL", "HTML/CSS"],
-  
-  frontend: {
-    frameworks:  ["React.js", "Next.js"],
-    styling:     ["Tailwind CSS", "Styled Components", "Shadcn/UI"],
-    state:       ["Redux", "Zustand", "React Query"],
-  },
-  
-  backend: {
-    runtime:     ["Node.js", "Bun"],
-    frameworks:  ["Express.js", "FastAPI", "Django", "Django REST"],
-    databases:   ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
-    messaging:   ["RabbitMQ", "Kafka"],
-  },
-  
-  genAI: {
-    models:      ["OpenAI GPT-4", "Claude", "LLaMA", "Gemini"],
-    frameworks:  ["LangChain", "LlamaIndex", "CrewAI", "AutoGen"],
-    techniques:  ["RAG", "Fine-Tuning", "Prompt Engineering",
-                  "Function Calling", "Agentic Workflows"],
-    vector_dbs:  ["Pinecone", "ChromaDB", "Weaviate", "FAISS"],
-  },
-  
-  devops: {
-    cloud:       ["AWS", "GCP", "Azure"],
-    containers:  ["Docker", "Kubernetes"],
-    cicd:        ["GitHub Actions", "Jenkins"],
-  },
-  
-  currently_building: "Autonomous AI Agents that think, plan & execute 🤖",
-};
-```
-
----
-
-## `> neofetch --stats`
-
-<div align="center">
-
-```
-mukesh@matrix
----------------------
-▪ OS          : Developer Edition 2.0
-▪ Uptime      : Since the first "Hello World"
-▪ Shell       : zsh + oh-my-zsh
-▪ Resolution  : 4K problems solved daily
-▪ Terminal    : Where ideas become reality
-▪ CPU         : Brain.exe (Overclocked)
-▪ GPU         : Imagination v∞
-▪ Memory      : Stack Overflow + ChatGPT + Docs
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-kalaga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=flat&logo=googlechrome&logoColor=black)](https://mukeshkalaga.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kalagamukesh@gmail.com)
 
 </div>
 
 ---
 
-## `> systemctl status ai-agent.service`
+```
+$ cat about.txt
 
-```yaml
-● ai-agent.service - Mukesh's Agentic AI Systems
-     Loaded: loaded (/etc/systemd/system/ai-agent.service; enabled)
-     Active: active (running) since Day 1
-   Main PID: 1337 (genius-mode)
-     Status: "Building autonomous agents that actually work"
-     
-     ┌──────────────────────────────────────────────┐
-     │  🧠 RAG Pipelines         ████████████  LIVE │
-     │  🤖 Agentic Workflows     ████████████  LIVE │
-     │  ⚡ Full Stack Apps        ████████████  LIVE │
-     │  🔗 LangChain Mastery     ████████████  LIVE │
-     │  🛠️ API Integrations      ████████████  LIVE │
-     │  📊 Vector Databases      ████████████  LIVE │
-     └──────────────────────────────────────────────┘
+I build things at the intersection of full-stack engineering and AI.
+Currently deep into agentic workflows — autonomous systems that
+reason, plan, and actually get stuff done.
+
+Based in Kakinada, India.
 ```
 
 ---
 
-## `> cat /var/log/github_stats.log`
+### what i work with
 
-<div align="center">
+**languages** — JavaScript, TypeScript, Python, SQL
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukeshkalaga&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshkalaga&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600" width="48%">
+**frontend** — React, Next.js, Tailwind, Shadcn/UI, Zustand
 
-</div>
+**backend** — Node.js, Express, FastAPI, Django, PostgreSQL, MongoDB, Redis
 
-<div align="center">
+**gen ai / agents** — LangChain, LlamaIndex, CrewAI, AutoGen, RAG pipelines, vector DBs (Pinecone, ChromaDB, FAISS), prompt engineering, function calling
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkalaga&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" width="40%">
-
-</div>
+**infra** — Docker, AWS, GCP, GitHub Actions
 
 ---
 
-## `> cat /proc/skill_matrix`
+### what i'm building
 
-```
-╔════════════════════════════╦══════════════════════════════╗
-║  SKILL                     ║  POWER LEVEL                 ║
-╠════════════════════════════╬══════════════════════════════╣
-║  JavaScript / TypeScript   ║  ███████████████████░  95%   ║
-║  React.js / Next.js        ║  ██████████████████░░  90%   ║
-║  Python                    ║  ███████████████████░  95%   ║
-║  FastAPI / Django          ║  █████████████████░░░  85%   ║
-║  Node.js / Express         ║  ██████████████████░░  90%   ║
-║  LangChain / LlamaIndex    ║  ███████████████████░  95%   ║
-║  RAG & Vector Databases    ║  ██████████████████░░  90%   ║
-║  Agentic AI / CrewAI       ║  ███████████████████░  95%   ║
-║  Docker / Kubernetes       ║  ████████████████░░░░  80%   ║
-║  Cloud (AWS/GCP)           ║  █████████████████░░░  85%   ║
-╚════════════════════════════╩══════════════════════════════╝
-```
-
----
-
-## `> tail -f /var/log/philosophy.log`
-
-```
-[2024-XX-XX 00:00:01] [INFO]  The best code is the code that writes itself.
-[2024-XX-XX 00:00:02] [INFO]  An agent is only as good as its tools.
-[2024-XX-XX 00:00:03] [INFO]  Ship fast. Break things. Fix them with AI.
-[2024-XX-XX 00:00:04] [INFO]  The future is agentic. I'm just early.
-[2024-XX-XX 00:00:05] [WARN]  Coffee levels critically low. Refueling...
-[2024-XX-XX 00:00:06] [INFO]  Back online. Building the matrix.
-```
-
----
-
-## `> netstat -connect`
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                     ESTABLISH CONNECTION                      │
-│                                                              │
-│    📧  Email       →  kalagamukesh@gmail.com                 │
-│    💼  LinkedIn    →  linkedin.com/in/mukesh-kalaga          │
-│    🐙  GitHub      →  github.com/mukeshkalaga                │
-│    🌐  Portfolio   →  mukeshkalaga.github.io                 │
-│                                                              │
-│    ┌──────────────────────────────────────────────────┐      │
-│    │  > Connection Status: OPEN                       │      │
-│    │  > Accepting: Collaborations, Ideas, Coffee ☕   │      │
-│    └──────────────────────────────────────────────────┘      │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
+- agentic AI systems that go beyond simple chat — think, plan, execute
+- RAG pipelines over real-world messy data
+- full-stack apps with LLM integrations baked in
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "Wake up, Neo... The Matrix has you..."                ║
-║                                                          ║
-║    ...but Mukesh has the Matrix. 😎                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=mukeshkalaga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" height="160">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshkalaga&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" height="160">
 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=mukeshkalaga&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+---
 
 ```
-mukesh@matrix:~$ exit
-// Session terminated. But the code lives on.
+$ exit
 ```
